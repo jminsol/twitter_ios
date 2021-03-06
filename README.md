@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Twitter iOS APP*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter iOS APP** is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/60868240/110201647-0d753780-7e19-11eb-8e19-e20faf86561d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
